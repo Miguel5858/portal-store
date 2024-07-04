@@ -1,0 +1,11 @@
+.pedido-exitoso {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .text-green-500 {
+    color: #48bb78; /* Este es el color verde que usa Tailwind */
+  }
+  
